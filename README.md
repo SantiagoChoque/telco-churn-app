@@ -89,7 +89,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## ✏️ Autor: Santiago Gabriel Choque Fernández
-* Repositorio GitHub: [https://github.com/SantiagoChoque/app-eda/](https://github.com/SantiagoChoque/app-eda/)
-* Aplicación en Streamlit Cloud: [https://app-santiagochoque.streamlit.app](https://app-santiagochoque.streamlit.app)
+* Repositorio GitHub: [[https://github.com/SantiagoChoque/app-eda/](https://github.com/SantiagoChoque/telco-churn-app/)]
+* Aplicación en Streamlit Cloud: [[https://app-santiagochoque.streamlit.app](https://app-santiagochoque.streamlit.app)]
 * Correo: sgchoquefer@gmail.com
 * Año: 2026
